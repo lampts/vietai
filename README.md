@@ -4,6 +4,15 @@ Transform AI/DL/DS into real world applications for Vietnam. This open project i
 - build community: data lover, hacker, ML/DL practitioner
 - contribute some real world projects in NLP, CV, ASR, TTS
 
+Our best in class:
+
+- Quoc Le (Google Brain): http://cs.stanford.edu/~quocle/
+- Thang Luong (Google Brain): http://t.co/3zNHouUn
+- Dustin (Columbia) http://dustintran.com/
+- Thien (NYU) http://www.cs.nyu.edu/~thien/
+- Hieu Pham (CMU) https://www.quora.com/profile/Hieu-Pham-20
+- Ken Tran (Microsofts) http://www.kentran.net/
+- Laurent Dinh (MILA):https://laurent-dinh.github.io/about/
 
 ## NLP
 
