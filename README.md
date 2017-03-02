@@ -1,4 +1,10 @@
-# vietai
+## Training
+
+|#|Description|Link|
+|--|-------|-----|
+|1|ML/DL Data Science introduction part 1| [pdf]()|
+
+## vietai
 Transform AI/DL/DS into real world applications for Vietnam. This open project is aimed to:
 
 - build community: data lover, hacker, ML/DL practitioner
