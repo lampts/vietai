@@ -4,6 +4,7 @@
 |Part|Description|Link|
 |----|-----------|----|
 |1|ML/DL Data Science introduction part 1| [pdf](https://github.com/lampts/vietai/blob/master/Part1_ML_DS_DL_v03.pdf)|
+|2|ML introduction, NLP & best practice part 2 | [pdf] (https://github.com/lampts/vietai/blob/master/Part2_PracticalDS_v5_final.pdf)|
 
 ## vietai
 Transform AI/DL/DS into real world applications for Vietnam. This open project is aimed to:
